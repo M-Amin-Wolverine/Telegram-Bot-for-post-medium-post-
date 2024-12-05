@@ -1,0 +1,15 @@
+2024-12-05 17:33:03 - __main__ - INFO - new announcement
+2024-12-05 17:33:03 - __main__ - ERROR - warning:
+2024-12-05 17:35:14 - __main__ - INFO - new announcement
+2024-12-05 17:35:14 - __main__ - ERROR - warning:
+2024-12-05 17:36:24 - __main__ - INFO - User 6479002237 subscribed to the channel.
+2024-12-05 17:37:03 - __main__ - INFO - Found post: How to Create an Android Payload in Just 1 Minute | Ethical Hacking - https://medium.com/@bjamali?source=tag_archive------bug_bounty---0----------------------------
+2024-12-05 17:37:03 - __main__ - INFO - Found post: Docker/Kubernetes (K8s)Penetration Testing Checklist - https://medium.com/@ajaynaikhack?source=tag_archive------bug_bounty---1----------------------------
+2024-12-05 17:37:03 - __main__ - INFO - Found post: Story Of 15 Vulnerabilities in one public BBP ! - https://medium.com/@Ahmex000?source=tag_archive------bug_bounty---2----------------------------
+2024-12-05 17:37:03 - __main__ - INFO - Found post: 20 Bug Bounty CrowdSourced Platforms - https://medium.comhttps://medium.com/the-first-digit?source=tag_archive------bug_bounty---4----------------------------
+2024-12-05 17:37:03 - __main__ - INFO - Found post: Unpacking an IDOR-Based Exploit in International Shipping (70 Million+ PII Data Breach) - https://medium.com/@susapr?source=tag_archive------bug_bounty---6----------------------------
+2024-12-05 17:37:03 - __main__ - INFO - Found post: How I got my first Hall of Fame - Bug Bounty - https://medium.com/@pranavrp77?source=tag_archive------bug_bounty---7----------------------------
+2024-12-05 17:37:03 - __main__ - INFO - Found post: From File Upload To LFI: A Journey To Exploitation - https://medium.com/@red.whisperer?source=tag_archive------bug_bounty---8----------------------------
+2024-12-05 17:37:03 - __main__ - INFO - Found post: Command Injection: Mastering Exploitation Techniques with a Comprehensive Cheatsheet - https://medium.comhttps://medium.com/system-weakness?source=tag_archive------bug_bounty---9----------------------------
+2024-12-05 17:37:03 - __main__ - INFO - Successfully fetched 10 posts from Medium.
+2024-12-05 17:37:03 - __main__ - ERROR - Error parsing Medium posts: Connection closed by server.
